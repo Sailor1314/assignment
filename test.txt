@@ -1,0 +1,157 @@
+Welcome to Alberta Hospital (AH) Managment system
+Select from the following options, or select 0 to stop:
+1 -     Doctors
+2 -     Facilities
+3 -     Laboratories
+4 -     Patients
+1
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+1
+id    name         specilist    timing     qualification   roomNb
+
+21    3            3            3          3               3
+
+32    Dr.Vikram    Physician    10-3AM     MBBS,MD         45
+
+17    Dr.Amy       Surgeon      8-2AM      BDM             8
+
+33    Dr.David     Artho        10-4PM     MBBS,MS         40
+
+123   Dr. Ross     Headackes    8-10am     Mst             102
+
+
+Back to the prevoius Menu
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+2
+Enter the doctor Id:
+33
+id    name         specilist    timing     qualification   roomNb    
+
+33   Dr.David     Artho        10-4PM     MBBS,MS         40
+
+
+Back to the prevoius Menu
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+3
+enter a name:Dr. Ross
+id    name         specilist    timing     qualification   roomNb    
+
+123  Dr. Ross     Headackes    8-10am     Mst             102
+
+
+Back to the prevoius Menu
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+2
+Enter the doctor Id:
+20
+Can't find the doctor with the same ID on the system
+
+Back to the prevoius Menu
+
+Enter the doctor Id:
+33
+id    name         specilist    timing     qualification   roomNb    
+
+33   Dr.David     Artho        10-4PM     MBBS,MS         40
+
+
+Back to the prevoius Menu
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+3
+enter a name:Dr. Tom
+Can't find the doctor with the same ID on the system
+
+Back to the prevoius Menu
+
+enter a name:Dr. Ross
+id    name         specilist    timing     qualification   roomNb    
+
+123  Dr. Ross     Headackes    8-10am     Mst             102
+
+
+Back to the prevoius Menu
+
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+4
+Enter the doctor's ID: 62
+Enter the doctor's name: Dr.Smith
+Enter the doctor's specility: Heart
+Enter the doctor's timing (e.g., 7am-10pm): 6am-11am
+Enter the doctor's qualification: PHD
+Enter the doctor's room number: 12
+Back to the prevoius Menu
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+5
+Please enter the id of the doctor that you want to edit their information:
+21
+Enter new Name:
+Dr. Mike kale 
+Enter new Specilist in:
+Heart
+Enter new Timing:
+9am-3pm
+Enter new Qualification:
+MS
+Enter new Room number:
+2
+Back to the prevoius Menu
+Doctors Menu:
+1 - Display Doctors list
+2 - Search for doctor by ID
+3 - Search for doctor by name
+4 - Add doctor
+5 - Edit doctor info
+6 - Back to the Main Menu
+6
+Welcome to Alberta Hospital (AH) Managment system
+Select from the following options, or select 0 to stop:
+1 -     Doctors
+2 -     Facilities
+3 -     Laboratories
+4 -     Patients
